@@ -9,4 +9,4 @@ def my_find(collection)
   end 
 end
 
-#
+#ruby bin/my_find
